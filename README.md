@@ -19,7 +19,7 @@ This was an exercise for MIT xPRO's Professional Certificate in Coding: Women's 
 * Build and manipulate maps on web pages
 	
 ## Setup
-To run this exercise, clone the repository and simply open the file ```PacManFactory.html``` in your preferred browser.
+To run this exercise, clone the repository and simply open the file ```index.html``` in your preferred browser.
 
 ## License
 MIT License
