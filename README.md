@@ -1,8 +1,28 @@
 # Real-Time-Bus-Tracker
-# 
-<h1>Real Time Bus Tracker</h1><br>
-<h2>Description</h2><br>
+<img src= "https://user-images.githubusercontent.com/89999452/139878149-58f2a542-2f61-4cd4-8ede-bd61db473c1b.png" width='500'/>
 
+## Table of contents
+* [General info](#general-info)
+* [Skills](#skills)
+* [Setup](#setup)
+* [License](#license)
+
+## General info
+This was an exercise for MIT xPRO's Professional Certificate in Coding: Women's Cohort. Fetching data of bus locations and rendering a map with updated markers. There are two markers distinguishing the direction from their last bus stop on their route. 
+	
+## Skills
+* Identify asynchronous functions, their functionality, and how async functions work together with promises
+* Practice communicating technical decisions you’ve made
+* Write async functions to fetch data from multiple sources
+* Evaluate the benefits and pitfalls of asynchronous programming techniques
+* Render a map on a web page 
+* Build and manipulate maps on web pages
+	
+## Setup
+To run this exercise, clone the repository and simply open the file ```PacManFactory.html``` in your preferred browser.
+
+## License
+MIT License
 
 Copyright (c) 2020 John Williams
 
@@ -22,4 +42,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.<p>
+SOFTWARE.
+
