@@ -1,5 +1,5 @@
 # Real-Time-Bus-Tracker
-<img src= "https://user-images.githubusercontent.com/89999452/139878149-58f2a542-2f61-4cd4-8ede-bd61db473c1b.png" width='500'/>
+<img src= "Screen Shot 2021-11-10 at 11.35.23 AM.png" width='500'/>
 
 ## Table of contents
 * [General info](#general-info)
