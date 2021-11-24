@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Skills](#skills)
 * [Setup](#setup)
+* [Future](#future)
 * [License](#license)
 
 ## General info
@@ -20,6 +21,9 @@ This was an exercise for MIT xPRO's Professional Certificate in Coding: Women's 
 	
 ## Setup
 To run this exercise, clone the repository and simply open the file ```index.html``` in your preferred browser.
+
+## Future
+For the future, I would like to implement this same exercise using various public data of different bus or train routes around the US.
 
 ## License
 MIT License
